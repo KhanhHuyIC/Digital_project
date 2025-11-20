@@ -1,0 +1,9 @@
+typedef.sv
+rtl/alu.sv
+rtl/control.sv
+rtl/counter.sv
+rtl/mem.sv
+rtl/register.sv
+rtl/scale_mux.sv
+rtl/cpu.sv
+tb/cpu_test.sv
