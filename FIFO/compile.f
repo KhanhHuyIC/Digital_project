@@ -1,0 +1,10 @@
+fifo_pkg.sv
+env/01_fifo_interface.sv
+env/02_fifo_generator.sv
+env/03_fifo_driver.sv
+env/04_fifo_monitor.sv
+env/05_fifo_scoreboard.sv
+env/06_fifo_checker.sv
+env/07_fifo_environment.sv
+rtl/fifo.sv
+fifo_testbench.sv
